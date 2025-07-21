@@ -2,6 +2,7 @@
 
 Loja virtual de jogos eletrônicos construída com React, oferecendo uma experiência interativa e animada para compra de jogos por plataforma (PlayStation, Nintendo Switch e Xbox).
 
+[Veja a página ao vivo aqui](https://desenvolvimento15.github.io/gamerverse/)
 ---
 
 ## Funcionalidades
@@ -23,14 +24,5 @@ Loja virtual de jogos eletrônicos construída com React, oferecendo uma experi�
 - Tailwind CSS (estilização)
 - Lucide React (ícones)
 - JSX
-
----
-
-## Estrutura do Projeto
-
-- `components/ui/card` - Componente Card para exibir o jogo.
-- `components/ui/button` - Componente Button estilizado.
-- `GamingStore` - Componente principal da página da loja, com lógica de carrinho e exibição de jogos.  
-  [Veja a página ao vivo aqui](https://desenvolvimento15.github.io/gamerverse/)
 
 ---
