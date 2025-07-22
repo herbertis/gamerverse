@@ -2,7 +2,7 @@
 
 Loja virtual de jogos eletrônicos construída com React, oferecendo uma experiência interativa e animada para compra de jogos por plataforma (PlayStation, Nintendo, Xbox).
 
-[Veja a página](https://desenvolvimento15.github.io/gamerverse/)
+[Veja a página](https://herbertis.github.io/gamerverse/)
 ---
 
 ## Funcionalidades
